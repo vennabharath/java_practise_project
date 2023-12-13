@@ -36,14 +36,7 @@ public class fibonacci_num {
                 p = 0;
             }
 
-            // n = p + n ;
-            // temp =n ;
-            // // int p = temp;
-            // array_fib[i] = n;
-
-            // if (i == 1) {
-            // temp = 1;
-            // }
+            
 
         }
         av_array(array_fib);
